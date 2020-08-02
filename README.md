@@ -6,7 +6,7 @@ This repo contains 2 projects (check the documents folder for more details on ea
 ## How to run
 To start login portal:
 1. go to login folder
-2. run `python natsmenu.py` from cmd/terminal
+2. run `python group2project.py` from cmd/terminal
 
 Note: you must register before attempting to log in
 
